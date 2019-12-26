@@ -1,0 +1,6 @@
+.idea
+config
+db.sqlite3
+venv
+migrations
+__pycache__
